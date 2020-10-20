@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1603197504747,
+  "timestamp": 1603198357555,
   "index": "/PWATodo/PWATodo/index.html",
   "assetGroups": [
     {
@@ -60,7 +60,7 @@
     "/PWATodo/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PWATodo/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/PWATodo/PWATodo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/PWATodo/PWATodo/index.html": "d7b59ffd0e9b379b354851d0088e18218ffaa689",
+    "/PWATodo/PWATodo/index.html": "e47a29768106a16cbb639d4333b47ce797298523",
     "/PWATodo/PWATodo/main.756d9b0450f954c7e903.js": "8f17f21b0fb27f48ba4fb60942cf4e22ec2ca276",
     "/PWATodo/PWATodo/manifest.webmanifest": "d15ca2da15adbd64bb9527cf9398abe61f9e069a",
     "/PWATodo/PWATodo/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
