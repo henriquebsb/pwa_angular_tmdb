@@ -1,5 +1,5 @@
 {
-  "name": "pwatodo",
+  "name": "coruja-filmes",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,7 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ngcc"
+    "postinstall": "ngcc",
+    "build-prod": "ng build --prod --base-href /pwa_angular_tmdb/",
+    "githubpages": "ngh"
   },
   "private": true,
   "dependencies": {
@@ -21,8 +23,10 @@
     "@angular/platform-browser-dynamic": "~10.1.5",
     "@angular/router": "~10.1.5",
     "@angular/service-worker": "~10.1.5",
+    "@ng-bootstrap/ng-bootstrap": "^8.0.0",
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
+    "ngx-bootstrap": "^6.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
