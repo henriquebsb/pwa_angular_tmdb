@@ -1,6 +1,6 @@
 {
-  "name": "Henrique e Aryanna",
-  "short_name": "H&A",
+  "name": "PWA Angular TMDb",
+  "short_name": "PWATMDb",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
