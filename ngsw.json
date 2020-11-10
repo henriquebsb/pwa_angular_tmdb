@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605034990711,
+  "timestamp": 1605035266759,
   "index": "/pwa_angular_tmdb/index.html",
   "assetGroups": [
     {
@@ -59,7 +59,7 @@
     "/pwa_angular_tmdb/favicon.ico": "f2fded865099870b1650f4ac1324beecfdb7c741",
     "/pwa_angular_tmdb/index.html": "79a3973c95a75a391e1dce6f4243611c470e9e1a",
     "/pwa_angular_tmdb/main.b14f1eeca7756eb8057b.js": "92167d066bd458a991abaf0386b821f39774f1df",
-    "/pwa_angular_tmdb/manifest.webmanifest": "b18f85f6fee09d8199ca0fac8875e6d6c5904b6b",
+    "/pwa_angular_tmdb/manifest.webmanifest": "4b3a550897b364b32f1f8e35c4ac28bd87e82504",
     "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js": "c39237db09f2c597a5c7283a91f8ff3b86204e66",
