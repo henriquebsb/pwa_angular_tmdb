@@ -6,7 +6,7 @@
   height:100%;
   overflow-y:hidden;
   background: #ffc107;
-  opacity:0.9;
+  // opacity:0.9;
 	transition:all .5s;
 	// display:flex;
 	// align-items:center;
@@ -29,9 +29,20 @@
   width:250px;
 }
 
-#wrapper.menuDisplayed #page-content-wrapper{
+// #wrapper.menuDisplayed #page-content-wrapper{
+//   padding-left:250px;
+// }
+
+#wrapper.menuDisplayed #menu-sidenav{
   padding-left:250px;
 }
+
+#menu-sidenav {
+	transition:all .5s;
+
+}
+
+
 
 /* Sidebar styling */
 .sidebar-nav{
