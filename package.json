@@ -1,6 +1,6 @@
 {
   "name": "coruja-filmes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +10,8 @@
     "e2e": "ng e2e",
     "postinstall": "ngcc",
     "build-prod": "ng build --prod --base-href /pwa_angular_tmdb/ && node after-build",
-    "githubpages": "ngh"
+    "githubpages": "ngh",
+    "patch": "npm version patch --force"
   },
   "private": true,
   "dependencies": {
