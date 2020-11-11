@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605134002075,
+  "timestamp": 1605134370773,
   "index": "/pwa_angular_tmdb/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/pwa_angular_tmdb/favicon.ico",
         "/pwa_angular_tmdb/index.html",
-        "/pwa_angular_tmdb/main.b9deb11be63b79e7ba72.js",
+        "/pwa_angular_tmdb/main.bd38cf8f8e494d5b26ae.js",
         "/pwa_angular_tmdb/manifest.webmanifest",
         "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js",
         "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js",
@@ -89,8 +89,8 @@
     "/pwa_angular_tmdb/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
     "/pwa_angular_tmdb/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
     "/pwa_angular_tmdb/favicon.ico": "f2fded865099870b1650f4ac1324beecfdb7c741",
-    "/pwa_angular_tmdb/index.html": "816595f32370c7df3952cec81137c3057267fde0",
-    "/pwa_angular_tmdb/main.b9deb11be63b79e7ba72.js": "dba2821314eb8ad19f90564295b1a470ee05fb46",
+    "/pwa_angular_tmdb/index.html": "10d84699669501d39e2f5ad78a9ed6dfa2bfd765",
+    "/pwa_angular_tmdb/main.bd38cf8f8e494d5b26ae.js": "6d95a3af5dbda16da0ef1d51ba32af7303e0f2a7",
     "/pwa_angular_tmdb/manifest.webmanifest": "4b3a550897b364b32f1f8e35c4ac28bd87e82504",
     "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
