@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605104388985,
+  "timestamp": 1605114009036,
   "index": "/pwa_angular_tmdb/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/pwa_angular_tmdb/favicon.ico",
         "/pwa_angular_tmdb/index.html",
-        "/pwa_angular_tmdb/main.f6b435e51b6a83cd4c8e.js",
+        "/pwa_angular_tmdb/main.99e8dbac80c45528f745.js",
         "/pwa_angular_tmdb/manifest.webmanifest",
         "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js",
         "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js",
         "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js",
-        "/pwa_angular_tmdb/styles.a531c5ba93f35e3111f5.css"
+        "/pwa_angular_tmdb/styles.1bf92bc773d68320e6ad.css"
       ],
       "patterns": []
     },
@@ -32,6 +32,7 @@
       "urls": [
         "/pwa_angular_tmdb/assets/bootstrap-solid.svg",
         "/pwa_angular_tmdb/assets/coruja_filmes.png",
+        "/pwa_angular_tmdb/assets/css/sidebar.scss",
         "/pwa_angular_tmdb/assets/icons/icon-128x128.png",
         "/pwa_angular_tmdb/assets/icons/icon-144x144.png",
         "/pwa_angular_tmdb/assets/icons/icon-152x152.png",
@@ -48,6 +49,7 @@
   "hashTable": {
     "/pwa_angular_tmdb/assets/bootstrap-solid.svg": "19c18bbc614e84c2f04f2fa2f3943ddcd7849926",
     "/pwa_angular_tmdb/assets/coruja_filmes.png": "a929d789b47420ae7bf2ac603f5b4564afb07d88",
+    "/pwa_angular_tmdb/assets/css/sidebar.scss": "7e8dde7edb060502c7c709b89a3dcb2ac1fa2aec",
     "/pwa_angular_tmdb/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/pwa_angular_tmdb/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/pwa_angular_tmdb/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -57,13 +59,13 @@
     "/pwa_angular_tmdb/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pwa_angular_tmdb/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/pwa_angular_tmdb/favicon.ico": "f2fded865099870b1650f4ac1324beecfdb7c741",
-    "/pwa_angular_tmdb/index.html": "78ca3d6fe5b8fc3a67870ee161b7be74f44f3739",
-    "/pwa_angular_tmdb/main.f6b435e51b6a83cd4c8e.js": "f8c141da86a58cc3097d9c0548536d70f080379a",
+    "/pwa_angular_tmdb/index.html": "b17f6b37191fd96741b1b0faa03fc53f4e4914dd",
+    "/pwa_angular_tmdb/main.99e8dbac80c45528f745.js": "95fb3ba3d56862881c06912a73c440105375a7ff",
     "/pwa_angular_tmdb/manifest.webmanifest": "4b3a550897b364b32f1f8e35c4ac28bd87e82504",
     "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js": "c39237db09f2c597a5c7283a91f8ff3b86204e66",
-    "/pwa_angular_tmdb/styles.a531c5ba93f35e3111f5.css": "d236f5cd09050b8256bb72aea6e7bc0448fd0a2b"
+    "/pwa_angular_tmdb/styles.1bf92bc773d68320e6ad.css": "ca7d22c944d3f81170e65fc92d9014063cbe98f8"
   },
   "navigationUrls": [
     {
