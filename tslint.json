@@ -65,7 +65,7 @@
       "as-needed"
     ],
     "quotemark": [
-      true,
+      false,
       "single"
     ],
     "semicolon": {
@@ -83,7 +83,7 @@
       }
     },
     "typedef": [
-      true,
+      false,
       "call-signature"
     ],
     "typedef-whitespace": {
@@ -107,7 +107,6 @@
     "variable-name": {
       "options": [
         "ban-keywords",
-        "check-format",
         "allow-pascal-case"
       ]
     },

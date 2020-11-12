@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand navbar-dark fixed-top bg-dark">
+  <i style="color: #ffc107; cursor: pointer;" id="menu-sidenav" class="fas fa-2x fa-bars"></i>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample02" aria-controls="navbarsExample02" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="ml-3 collapse navbar-collapse" id="navbarsExample02">
+    <ul class="navbar-nav mr-auto">
+      <!-- <li class="nav-item active"> -->
+      <li class="nav-item">
+        <a class="nav-link btn" [routerLink]="['/movie/upcoming']">Em Breve</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link btn" [routerLink]="['/movie/trending']">Trending</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link btn"  (click)="setLanguage('ptBR')">Brasil</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link btn" (click)="setLanguage('en')">USA</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<router-outlet></router-outlet>
