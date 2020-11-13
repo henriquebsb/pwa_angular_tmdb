@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605296081096,
+  "timestamp": 1605302643239,
   "index": "/pwa_angular_tmdb/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/pwa_angular_tmdb/favicon.ico",
         "/pwa_angular_tmdb/index.html",
-        "/pwa_angular_tmdb/main.d9d2963f902fba939f5d.js",
+        "/pwa_angular_tmdb/main.250cf0441795e7aef1e6.js",
         "/pwa_angular_tmdb/manifest.webmanifest",
         "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js",
         "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js",
         "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js",
-        "/pwa_angular_tmdb/styles.3f842a278c77d528749c.css"
+        "/pwa_angular_tmdb/styles.3b56233241723737774e.css"
       ],
       "patterns": []
     },
@@ -101,13 +101,13 @@
     "/pwa_angular_tmdb/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
     "/pwa_angular_tmdb/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
     "/pwa_angular_tmdb/favicon.ico": "f2fded865099870b1650f4ac1324beecfdb7c741",
-    "/pwa_angular_tmdb/index.html": "3787471739d3fce7254ddba6cc58bce5980f9376",
-    "/pwa_angular_tmdb/main.d9d2963f902fba939f5d.js": "135ab6eda685a81dc16b06247661330ece5c1685",
+    "/pwa_angular_tmdb/index.html": "eb98db98a6fbbbbc37f1a2dc3d72b5d477fb5b22",
+    "/pwa_angular_tmdb/main.250cf0441795e7aef1e6.js": "55619587b65f295d80e1b51fdf7b76ebda445541",
     "/pwa_angular_tmdb/manifest.webmanifest": "4b3a550897b364b32f1f8e35c4ac28bd87e82504",
     "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js": "c39237db09f2c597a5c7283a91f8ff3b86204e66",
-    "/pwa_angular_tmdb/styles.3f842a278c77d528749c.css": "e362aa0916d147ce6cd4dc2c8445168793744a89"
+    "/pwa_angular_tmdb/styles.3b56233241723737774e.css": "edd92bada0b3aa466b9a8a968527e2aa08009e76"
   },
   "navigationUrls": [
     {
