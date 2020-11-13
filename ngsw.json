@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605283376981,
+  "timestamp": 1605284881880,
   "index": "/pwa_angular_tmdb/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/pwa_angular_tmdb/favicon.ico",
         "/pwa_angular_tmdb/index.html",
-        "/pwa_angular_tmdb/main.67056f26e92be7e5be10.js",
+        "/pwa_angular_tmdb/main.7073ca556af13145614b.js",
         "/pwa_angular_tmdb/manifest.webmanifest",
         "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js",
         "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js",
@@ -99,8 +99,8 @@
     "/pwa_angular_tmdb/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
     "/pwa_angular_tmdb/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
     "/pwa_angular_tmdb/favicon.ico": "f2fded865099870b1650f4ac1324beecfdb7c741",
-    "/pwa_angular_tmdb/index.html": "f26b1bab55e3c32fc341990222da94f4f9265637",
-    "/pwa_angular_tmdb/main.67056f26e92be7e5be10.js": "d7f0a03a8c58be3cec53f52e30f66d6878b6a4f0",
+    "/pwa_angular_tmdb/index.html": "f2a77e8ec0d1f3b999d1a13c91370717478de963",
+    "/pwa_angular_tmdb/main.7073ca556af13145614b.js": "943293c0549a807cb9217b75dc106feda5bf753b",
     "/pwa_angular_tmdb/manifest.webmanifest": "4b3a550897b364b32f1f8e35c4ac28bd87e82504",
     "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
