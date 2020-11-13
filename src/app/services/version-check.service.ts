@@ -31,7 +31,7 @@ export class VersionCheckService {
    * Will do the call and check if the hash has changed or not
    * @param url
    */
-  public checkVersion(url) {
+  private checkVersion(url) {
       // timestamp these requests to invalidate caches
       this.http.get(url + '?t=' + new Date().getTime())
           .subscribe(
@@ -73,6 +73,18 @@ export class VersionCheckService {
       }
 
       return currentHash !== newHash;
+  }
+
+  /**
+   * Will do the call and check if the hash has changed or not
+   * @param urlVersionFile
+   */
+  public checkVersionOnInitApp(urlVersionFile) {
+    // check version on init
+    if (urlVersionFile.indexOf('localhost') === -1) {
+      console.log('Checking...');
+      this.checkVersion(urlVersionFile);
+    }
   }
 }
 

@@ -5,6 +5,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
 // Configurações
 import { environment } from '../environments/environment';
@@ -21,17 +22,21 @@ import { SerieComponent } from './components/serie/serie.component';
 import { SettingsComponent } from './components/settings/settings.component';
 import { SearchComponent } from './components/search/search.component';
 import { UpcomingComponent } from './components/movie/upcoming/upcoming.component';
+import { TrendingComponent } from './components/movie/trending/trending.component';
 
 // Terceiros
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
-import { TrendingComponent } from './components/movie/trending/trending.component';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient) {
-  return new TranslateHttpLoader(http);
+  return new TranslateHttpLoader(http, 'assets/i18n/', '.json');
 }
+
+// export function createTranslateLoader(http: HttpClient) {
+//   return new TranslateHttpLoader(http, 'assets/i18n/', '.json');
+// }
 
 @NgModule({
   declarations: [
@@ -64,7 +69,9 @@ export function HttpLoaderFactory(http: HttpClient) {
     }
     })
   ],
-  providers: [],
+  providers: [
+    { provide: LocationStrategy, useClass: HashLocationStrategy },
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

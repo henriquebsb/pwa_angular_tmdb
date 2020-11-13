@@ -8,13 +8,9 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class MovieComponent implements OnInit {
 
-  constructor(private translateService: TranslateService) { }
+  constructor() { }
 
   ngOnInit(): void {
-  }
-
-  setLanguage(language) {
-    this.translateService.use(language);
   }
 }
 

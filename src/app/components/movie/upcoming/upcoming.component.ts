@@ -9,7 +9,7 @@ import { MovieService } from 'src/app/services/movie.service';
 export class UpcomingComponent implements OnInit {
   movies = {
     upcoming: {
-      results: {}
+      results: []
     }
   };
 

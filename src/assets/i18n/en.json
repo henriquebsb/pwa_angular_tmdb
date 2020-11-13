@@ -5,11 +5,9 @@
     "search": "Search",
     "settings": "Settings"
   },
-  "PAGE_TITLE" : "Translation tutorial",
-  "BUTTONS" : {
-      "btn_en" : "English",
-      "btn_ptBR" : "Portuguese (BR)"
-  },
-  "IN_APP" : "Internal app translation",
-  "FOO": "Foo {{test}}"
+  "buttonTMDb": "Connect to TMDb",
+  "menu_movie": {
+    "upcoming": "Upcoming",
+    "trending": "Trending"
+  }
 }

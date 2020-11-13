@@ -3,6 +3,7 @@ import { AuthenticationService } from '../../../services/authentication.service'
 import { environment } from '../../../../environments/environment';
 
 import { Router } from '@angular/router';
+import { InternationalizationService } from 'src/app/services/internationalization.service';
 
 @Component({
   selector: 'app-side-bar',
@@ -12,6 +13,7 @@ import { Router } from '@angular/router';
 export class SideBarComponent implements OnInit {
   _enviroment = environment;
   constructor(
+    private _serviceInternationalization: InternationalizationService,
     private _serviceAuthentication: AuthenticationService,
     private _router: Router
   ) { }
@@ -31,5 +33,9 @@ export class SideBarComponent implements OnInit {
         alert(error);
       }
     );
+  }
+
+  setLanguage(language) {
+    this._serviceInternationalization.setLanguage(language);
   }
 }

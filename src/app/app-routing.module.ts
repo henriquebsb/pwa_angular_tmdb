@@ -18,8 +18,7 @@ const routes: Routes = [
     path: '',
     component: MasterPageComponent,
     children: [
-      { path: '', redirectTo: 'home', pathMatch: 'full' },
-      { path: 'home', component: MovieComponent },
+      { path: '', redirectTo: 'movie/upcoming', pathMatch: 'full' },
       {
         path: 'movie',
         component: MovieComponent,
