@@ -1,0 +1,13 @@
+{
+  "side_bar": {
+    "movie": "Filmes",
+    "serie": "Seriados",
+    "search": "Procurar",
+    "settings": "Configurações"
+  },
+  "buttonTMDb": "Conectar TMDb",
+  "menu_movie": {
+    "upcoming": "Em Breve",
+    "trending": "Tendência"
+  }
+}

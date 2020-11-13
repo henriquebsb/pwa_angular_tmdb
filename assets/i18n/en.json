@@ -1,0 +1,13 @@
+{
+  "side_bar": {
+    "movie": "Movies",
+    "serie": "Serie",
+    "search": "Search",
+    "settings": "Settings"
+  },
+  "buttonTMDb": "Connect to TMDb",
+  "menu_movie": {
+    "upcoming": "Upcoming",
+    "trending": "Trending"
+  }
+}
