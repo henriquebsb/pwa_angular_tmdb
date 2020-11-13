@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605285583929,
+  "timestamp": 1605296081096,
   "index": "/pwa_angular_tmdb/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "/pwa_angular_tmdb/favicon.ico",
         "/pwa_angular_tmdb/index.html",
-        "/pwa_angular_tmdb/main.4cf343eecad7d484f974.js",
+        "/pwa_angular_tmdb/main.d9d2963f902fba939f5d.js",
         "/pwa_angular_tmdb/manifest.webmanifest",
         "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js",
         "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js",
         "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js",
-        "/pwa_angular_tmdb/styles.79135594b7821d92713f.css"
+        "/pwa_angular_tmdb/styles.3f842a278c77d528749c.css"
       ],
       "patterns": []
     },
@@ -46,6 +46,7 @@
         "/pwa_angular_tmdb/assets/icons/icon-512x512.png",
         "/pwa_angular_tmdb/assets/icons/icon-72x72.png",
         "/pwa_angular_tmdb/assets/icons/icon-96x96.png",
+        "/pwa_angular_tmdb/assets/icons/tmdb.svg",
         "/pwa_angular_tmdb/fa-brands-400.0fea24969112a781acd2.eot",
         "/pwa_angular_tmdb/fa-brands-400.c967a94cfbe2b06627ff.woff2",
         "/pwa_angular_tmdb/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
@@ -69,7 +70,7 @@
   "hashTable": {
     "/pwa_angular_tmdb/assets/bootstrap-solid.svg": "19c18bbc614e84c2f04f2fa2f3943ddcd7849926",
     "/pwa_angular_tmdb/assets/coruja_filmes.png": "a929d789b47420ae7bf2ac603f5b4564afb07d88",
-    "/pwa_angular_tmdb/assets/css/bootstrap-changes.scss": "cb845a1bae51bef1e93569e84691c0f9912ffb46",
+    "/pwa_angular_tmdb/assets/css/bootstrap-changes.scss": "2b45b9611947ce58ffc7923325ffbf606fa37739",
     "/pwa_angular_tmdb/assets/css/sidebar.scss": "e7592def721ee34c6ce403ac66b09be15ba4441b",
     "/pwa_angular_tmdb/assets/i18n/en.json": "db79d828ed8591285ec75a19bfc880f8925aeb6f",
     "/pwa_angular_tmdb/assets/i18n/pt-BR.json": "f960c09d4d128f78fd001808ee2147d58dc51897",
@@ -83,6 +84,7 @@
     "/pwa_angular_tmdb/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/pwa_angular_tmdb/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/pwa_angular_tmdb/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/pwa_angular_tmdb/assets/icons/tmdb.svg": "d6f7f0323283bf92471217d16e517181ff203cbf",
     "/pwa_angular_tmdb/fa-brands-400.0fea24969112a781acd2.eot": "c719f4375679ee58e156434f9ba9727be669cf07",
     "/pwa_angular_tmdb/fa-brands-400.c967a94cfbe2b06627ff.woff2": "f726c4275bb494a045fde059175f072de06c01df",
     "/pwa_angular_tmdb/fa-brands-400.dc2cbadd690e1d4b2c9c.woff": "a42ac4a94f4e0e9333cdb1b2fb6c13c0ae690ff2",
@@ -99,13 +101,13 @@
     "/pwa_angular_tmdb/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
     "/pwa_angular_tmdb/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
     "/pwa_angular_tmdb/favicon.ico": "f2fded865099870b1650f4ac1324beecfdb7c741",
-    "/pwa_angular_tmdb/index.html": "b09a32f49abe71ee41c1d880e020ce0e0617992d",
-    "/pwa_angular_tmdb/main.4cf343eecad7d484f974.js": "35a14dcf4cbb3cd5c92879b1f21bd525b95925f0",
+    "/pwa_angular_tmdb/index.html": "3787471739d3fce7254ddba6cc58bce5980f9376",
+    "/pwa_angular_tmdb/main.d9d2963f902fba939f5d.js": "135ab6eda685a81dc16b06247661330ece5c1685",
     "/pwa_angular_tmdb/manifest.webmanifest": "4b3a550897b364b32f1f8e35c4ac28bd87e82504",
     "/pwa_angular_tmdb/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "/pwa_angular_tmdb/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/pwa_angular_tmdb/scripts.a73844de5f291be94c3b.js": "c39237db09f2c597a5c7283a91f8ff3b86204e66",
-    "/pwa_angular_tmdb/styles.79135594b7821d92713f.css": "deb9f495cd74ad318a3f53cc9ce13cd67d59d823"
+    "/pwa_angular_tmdb/styles.3f842a278c77d528749c.css": "e362aa0916d147ce6cd4dc2c8445168793744a89"
   },
   "navigationUrls": [
     {
