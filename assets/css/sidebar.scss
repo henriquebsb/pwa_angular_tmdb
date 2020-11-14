@@ -4,12 +4,17 @@
   position: absolute;
   width:0;
   height:100%;
-  // overflow-y:hidden;
+  overflow-y:hidden;
   background: #ffc107;
   // opacity:0.9;
 	transition:all .5s;
 	// display:flex;
 	// align-items:center;
+}
+
+.sidebar-row {
+  width:0 !important;
+  transition:all .5s !important;
 }
 
 /* Main Content */
@@ -31,6 +36,12 @@
   width:250px;
 }
 
+#wrapper.menuDisplayed #sidebar-wrapper .sidebar-row{
+  width:265px !important;
+}
+
+
+
 // #wrapper.menuDisplayed #page-content-wrapper{
 //   padding-left:250px;
 // }
@@ -41,7 +52,6 @@
 
 #menu-sidenav {
 	transition:all .5s;
-
 }
 
 /* Sidebar styling */
