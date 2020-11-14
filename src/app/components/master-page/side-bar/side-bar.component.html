@@ -1,22 +1,22 @@
 <div id="sidebar-wrapper">
-  <div class="row mt-5">
-    <div class="col-12 col-lg-12 mt-3">
-      <span class="ml-3" style="font-size: 11px; color: #e09304;">v{{ _enviroment.version }}</span><br>
-      <img class="ml-3" (click)="setLanguage('pt-BR')" src="assets/icons/brasil.svg" alt="Brazil" width="8%">
+  <div class="row sidebar-row mt-5">
+    <div class=" col-12 col-lg-12 no-padding mt-3">
+      <span class="ml-4" style="font-size: 11px; color: #e09304;">v{{ _enviroment.version }}</span><br>
+      <img class="ml-4" (click)="setLanguage('pt-BR')" src="assets/icons/brasil.svg" alt="Brazil" width="8%">
       <img class="ml-2" (click)="setLanguage('en')" src="assets/icons/estados-unidos.svg" alt="USA" width="8%">
     </div>
-    <div class="col-12 col-lg-12 text-center mt-2">
+    <div class="col-12 col-lg-12 no-padding text-center mt-2">
       <img class="mb-4" src="assets/coruja_filmes.png" alt="" width="35%">
     </div>
-    <div class="col-12 col-lg-12 text-center mb-3">
+    <div class="col-12 col-lg-12 no-padding text-center mb-3">
       <button type="button" class="btn btn-dark" (click)="temporaryTokenPermissionOnClick()"><b>{{ 'buttonTMDb' | translate }}</b></button>
     </div>
-    <div class="col-12 col-lg-12">
+    <div class="col-12 col-lg-12 no-padding">
       <ul class="sidebar-nav">
-        <li class="p-0"><a [routerLink]="['/movie']" class="ml-3 p-2"><i class="fas fa-video mr-3"></i><b>{{ 'side_bar.movie' | translate }}</b></a></li>
-        <li class="p-0"><a [routerLink]="['/serie']" class="ml-3 p-2"><i class="fas fa-tv mr-3"></i><b>{{ 'side_bar.serie' | translate }}</b></a></li>
-        <li class="p-0"><a [routerLink]="['/search']" class="ml-3 p-2"><i class="fas fa-search mr-3"></i><b>{{ 'side_bar.search' | translate }}</b></a></li>
-        <li class="p-0"><a [routerLink]="['/settings']" class="ml-3 p-2"><i class="fas fa-cog mr-3"></i><b>{{ 'side_bar.settings' | translate }}</b></a></li>
+        <li class="p-0"><a [routerLink]="['/movie']" class="ml-4 p-2"><i class="fas fa-video mr-3"></i><b>{{ 'side_bar.movie' | translate }}</b></a></li>
+        <li class="p-0"><a [routerLink]="['/serie']" class="ml-4 p-2"><i class="fas fa-tv mr-3"></i><b>{{ 'side_bar.serie' | translate }}</b></a></li>
+        <li class="p-0"><a [routerLink]="['/search']" class="ml-4 p-2"><i class="fas fa-search mr-3"></i><b>{{ 'side_bar.search' | translate }}</b></a></li>
+        <li class="p-0"><a [routerLink]="['/settings']" class="ml-4 p-2"><i class="fas fa-cog mr-3"></i><b>{{ 'side_bar.settings' | translate }}</b></a></li>
       </ul>
     </div>
   </div>

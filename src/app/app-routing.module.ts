@@ -8,6 +8,7 @@ import { SettingsComponent } from './components/settings/settings.component';
 import { SearchComponent } from './components/search/search.component';
 import { UpcomingComponent } from './components/movie/upcoming/upcoming.component';
 import { TrendingComponent } from './components/movie/trending/trending.component';
+import { PopularComponent } from './components/serie/popular/popular.component';
 
 const routes: Routes = [
   {
@@ -28,7 +29,14 @@ const routes: Routes = [
           { path: 'trending', component: TrendingComponent },
         ]
       },
-      { path: 'serie', component: SerieComponent },
+      {
+        path: 'serie',
+        component: SerieComponent,
+        children: [
+          { path: '', redirectTo: 'popular', pathMatch: 'full' },
+          { path: 'popular', component: PopularComponent },
+        ]
+      },
       { path: 'search', component: SearchComponent },
       { path: 'settings', component: SettingsComponent }
     ]

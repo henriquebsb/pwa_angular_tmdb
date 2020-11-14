@@ -28,6 +28,7 @@ import { TrendingComponent } from './components/movie/trending/trending.componen
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { PopularComponent } from './components/serie/popular/popular.component';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient) {
@@ -50,7 +51,8 @@ export function HttpLoaderFactory(http: HttpClient) {
     SettingsComponent,
     SearchComponent,
     UpcomingComponent,
-    TrendingComponent
+    TrendingComponent,
+    PopularComponent
   ],
   imports: [
     HttpClientModule,

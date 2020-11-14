@@ -134,6 +134,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CorujaFilmes"
+    }
+  },
+  "defaultProject": "CorujaFilmes",
+  "cli": {
+    "analytics": "addd273e-2b1a-4763-a3d5-8695a34fb6fa"
+  }
 }
