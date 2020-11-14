@@ -1,6 +1,6 @@
 {
   "name": "coruja-filmes",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -28,6 +28,7 @@
     "@ng-bootstrap/ng-bootstrap": "^8.0.0",
     "@ngx-translate/core": "^13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
+    "angular-cli-ghpages": "^0.6.2",
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
     "ngx-bootstrap": "^6.1.0",
