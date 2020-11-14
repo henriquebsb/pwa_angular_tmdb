@@ -48,7 +48,7 @@ export class VersionCheckService {
                         // only necessary in case you did not force refresh
                         this.currentHash = hash;
 
-                        location.reload();
+                        location.reload(true);
                       }
                   }
 
