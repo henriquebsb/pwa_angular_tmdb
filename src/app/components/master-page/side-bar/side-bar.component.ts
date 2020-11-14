@@ -27,7 +27,7 @@ export class SideBarComponent implements OnInit {
         this._serviceAuthentication.temporaryTokenPermission = data;
         console.log(this._serviceAuthentication.temporaryTokenPermission.request_token);
         const request_token = this._serviceAuthentication.temporaryTokenPermission.request_token;
-        this._router.navigate(['https://www.themoviedb.org/authenticate/' + request_token]);
+        window.open('https://www.themoviedb.org/authenticate/' + request_token, "_blank");
       },
       error => {
         alert(error);
