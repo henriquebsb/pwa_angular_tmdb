@@ -1,6 +1,6 @@
 ## Select Language
-- [`[English]`](https://github.com/henriquebsb/pwa_angular_tmdb/edit/master/README.md)
-- [`[Portuguese]`](https://github.com/henriquebsb/pwa_angular_tmdb/edit/master/README-pt.md)
+- [`[English]`](https://github.com/henriquebsb/pwa_angular_tmdb/blob/master/README.md)
+- [`[Portuguese]`](https://github.com/henriquebsb/pwa_angular_tmdb/blob/master/README-pt.md)
 
 ## Introduction
 Project for study development of app PWA with Angular.
