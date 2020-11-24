@@ -1,16 +1,20 @@
-## Introdução
-Projeto de estudo para desenvolvimento de aplicativo PWA com Angular.
+## Select Language
+- [`[English]`](https://github.com/henriquebsb/pwa_angular_tmdb/edit/master/README.md)
+- [`[Portuguese]`](https://github.com/henriquebsb/pwa_angular_tmdb/edit/master/README-pt.md)
 
-## Versão 0.0.1
-#### Concluídas
-- [x] Internacionalização(i18n);
-- [x] Verificação automática de versão;
-#### Planejadas
-- [ ] Controle e gerenciamento de instalação do aplicativo PWA;
+## Introduction
+Project for study development of app PWA with Angular.
+
+## Version 0.0.26
+#### Finished
+- [x] Internationalization(i18n);
+- [x] Automatic verify the version of app;
+#### Planned
+- [ ] Controll and management on installing app PWA;
 
 ## Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
-  - utilizado em app.module.ts { provide: LocationStrategy, useClass: HashLocationStrategy }, para o browser acessar as rotas
+  - It was used in app.module.ts { provide: LocationStrategy, useClass: HashLocationStrategy }, for browser to access routes directly
 
 ## Pacotes/Dependências Utilizadas
   - @ngx-translate/core: tradução do site para outras línguas.
