@@ -4,6 +4,8 @@
 
 ## Introdução
 Projeto de estudo para desenvolvimento de aplicativo PWA com Angular.
+O Projedo pode ser visto aqui: [CorujaFilmes](https://henriquebsb.github.io/pwa_angular_tmdb/#/movie/upcoming)
+
 
 ## Versão 0.0.26
 #### Concluídas
