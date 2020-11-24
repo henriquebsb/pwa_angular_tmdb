@@ -1,4 +1,12 @@
-## PWA Angular TMDb
+## Introdução
+Projeto de estudo para desenvolvimento de aplicativo PWA com Angular.
+
+## Versão 0.0.1
+#### Concluídas
+- [x] Internacionalização(i18n);
+- [x] Verificação automática de versão;
+#### Planejadas
+- [ ] Controle e gerenciamento de instalação do aplicativo PWA;
 
 ## Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
